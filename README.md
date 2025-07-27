@@ -97,6 +97,7 @@ Aplicar los conocimientos del curso para representar una animación 2D de un ker
 - [OpenCV Documentation](https://docs.opencv.org/4.x/)
 - [Matplotlib Cheatsheets](https://matplotlib.org/cheatsheets/)
 - [GitHub del proyecto](https://github.com/JesvsRRR/Animaci-n-de-Fondo-con-Scroll-Oscilaci-n-y-Sprites-Usando-Multiprocesamiento-en-Python)
+- [Explicación del codigo](https://drive.google.com/file/d/1vW0XkiIqpfso3RkgiwJtOM5iAGcIHxTm/view?usp=sharing)
 
 ---
 
